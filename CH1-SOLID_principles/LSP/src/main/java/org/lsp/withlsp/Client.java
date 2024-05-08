@@ -34,7 +34,7 @@ public class Client {
 }
 
 /*
- * if an interface, defines methods and some of those methods will not be used are not needed by all
+ * if an interface, declares methods and some of those methods will not be used are not needed by all
  * classes that implement and that will implement that interface, then those methods should not be in that interface.
  * Put them in a different interface. (Not really sure about this note though :D)
  */
